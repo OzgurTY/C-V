@@ -26,7 +26,7 @@ h2 {
 }
 
 h3 {
-  color: #9900ff;
+  color: #db1d5c;
 }
 
 hr {
@@ -35,6 +35,20 @@ hr {
     width: 3%;
     margin: 100px auto;
   }
+
+/* SCROLL BAR */
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background: #dddddd;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #db1d5c;
+}
 
 /* NAVIGATION */
 
