@@ -182,7 +182,7 @@ section img#mountains_front {
 .intro {
     width: 30%;
     margin: auto;
-  }
+}
 
 .coding-gif {
   width: 25%;
@@ -199,7 +199,7 @@ section img#mountains_front {
 .contact-message {
     width: 40%;
     margin: 40px auto 60px;
-  }
+}
 
 .btn {
   background: #8c00ff;
@@ -226,4 +226,18 @@ section img#mountains_front {
   background-image: -o-linear-gradient(top, #0015ff, #9900ff);
   background-image: linear-gradient(to bottom, #0015ff, #9900ff);
   text-decoration: none;
+}
+
+/* Footer Section */
+
+#footer {
+    background-color: #1c0522;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
